@@ -1,0 +1,201 @@
+Rank,Country,Obesity %
+1,American Samoa,70.29
+2,Nauru,69.65
+3,Tokelau,67.05
+4,Cook Islands,66.05
+5,Niue,63.71
+6,Tonga,63.37
+7,Tuvalu,57.73
+8,Samoa,52.83
+9,French Polynesia,47.02
+10,United States,41.64
+11,Qatar,40.79
+12,Bahamas,39.78
+13,Palau,39.10
+14,Federated States of Micronesia,39.02
+15,Kuwait,38.88
+16,Romania,38.34
+17,Saudi Arabia,38.13
+18,Marshall Islands,38.09
+19,Saint Kitts and Nevis,37.59
+20,Puerto Rico,36.46
+21,Hungary,36.43
+22,Kiribati,36.08
+23,Malta,36.02
+24,Argentina,35.53
+25,Croatia,34.80
+26,Georgia,34.34
+27,Jordan,34.20
+28,Chile,34.10
+29,Belize,33.62
+30,Iraq,33.35
+31,New Zealand,32.99
+32,Bahrain,32.91
+33,Egypt,32.48
+34,Mexico,32.22
+35,Poland,32.19
+36,Australia,32.05
+37,Uruguay,31.64
+38,Slovakia,31.42
+39,Paraguay,30.76
+40,Czechia,30.72
+41,Ireland,30.70
+42,Brunei Darussalam,30.22
+43,Greece,30.06
+44,Panama,29.88
+45,Palestine,29.77
+46,Lebanon,29.53
+47,North Macedonia,29.11
+48,United Arab Emirates,29.02
+49,Nicaragua,28.68
+50,Canada,28.16
+51,Libya,28.08
+52,Uzbekistan,27.88
+53,Lithuania,27.87
+54,Barbados,27.78
+55,United Kingdom,26.94
+56,Oman,26.79
+57,Syrian Arab Republic,26.71
+58,Fiji,26.62
+59,Serbia,26.44
+60,Turkey,26.22
+61,Cyprus,26.18
+62,Latvia,25.72
+63,Slovenia,25.66
+64,Costa Rica,25.55
+65,Brazil,25.05
+66,Kyrgyzstan,24.96
+67,Bermuda,24.47
+68,Antigua and Barbuda,24.40
+69,Greenland,24.37
+70,Russian Federation,24.34
+71,Bulgaria,24.08
+72,Dominican Republic,24.02
+73,Israel,23.81
+74,Iceland,23.64
+75,Peru,23.62
+76,Honduras,23.59
+77,El Salvador,23.44
+78,Bolivia,23.41
+79,Estonia,23.37
+80,Germany,23.08
+81,Ecuador,23.06
+82,Trinidad and Tobago,22.99
+83,Guatemala,22.62
+84,Mongolia,22.46
+85,Bosnia and Herzegovina,22.41
+86,Albania,22.27
+87,Moldova,22.01
+88,Portugal,21.97
+89,Finland,21.88
+90,Montenegro,21.35
+91,Andorra,21.06
+92,Luxembourg,20.99
+93,Norway,20.93
+94,Saint Lucia,20.87
+95,Venezuela,20.82
+96,Ukraine,20.77
+97,Seychelles,20.58
+98,Tajikistan,20.57
+99,Pakistan,20.49
+100,Azerbaijan,20.39
+101,Belarus,20.13
+102,Tunisia,19.92
+103,Armenia,19.81
+104,Belgium,19.79
+105,Suriname,19.67
+106,Turkmenistan,19.60
+107,Spain,19.39
+108,Saint Vincent and the Grenadines,19.23
+109,Jamaica,19.21
+110,Cuba,19.19
+111,Kazakhstan,19.07
+112,Grenada,19.06
+113,Austria,18.81
+114,Colombia,18.58
+115,Dominica,18.38
+116,Iran,18.26
+117,Solomon Islands,18.13
+118,Guyana,18.10
+119,Italy,17.97
+120,Malaysia,17.70
+121,Sweden,17.18
+122,Vanuatu,17.04
+123,Papua New Guinea,16.61
+124,Singapore,16.09
+125,Algeria,16.03
+126,Denmark,15.70
+127,Eswatini,15.62
+128,Switzerland,15.07
+129,Netherlands,15.05
+130,Afghanistan,14.88
+131,South Africa,14.50
+132,Morocco,13.79
+133,Maldives,13.23
+134,Mauritius,13.07
+135,Liberia,13.05
+136,Taiwan,12.44
+137,Thailand,12.10
+138,Sudan,11.74
+139,Gabon,11.41
+140,Namibia,10.65
+141,Yemen,10.49
+142,Mali,10.24
+143,France,10.18
+144,Sao Tome and Principe,10.06
+145,Gambia,9.77
+146,Cameroon,9.69
+147,Bhutan,9.61
+148,Mauritania,9.25
+149,China,8.94
+150,South Korea,8.82
+151,Lesotho,8.82
+152,Cabo Verde,8.79
+153,Botswana,8.76
+154,North Korea,8.65
+155,Nigeria,8.52
+156,Comoros,8.31
+157,Equatorial Guinea,8.08
+158,Cote d'Ivoire,7.95
+159,Guinea-Bissau,7.86
+160,Chad,7.71
+161,Japan,7.63
+162,Benin,7.41
+163,Philippines,7.34
+164,Sri Lanka,6.76
+165,Haiti,6.73
+166,Tanzania,6.73
+167,Angola,6.53
+168,Indonesia,6.53
+169,Mozambique,6.50
+170,Burundi,6.36
+171,Djibouti,6.35
+172,Central African Republic,6.33
+173,Kenya,6.32
+174,Guinea,6.16
+175,Somalia,6.07
+176,Laos,6.06
+177,Togo,5.88
+178,Zimbabwe,5.73
+179,Myanmar,5.67
+180,India,5.38
+181,Ghana,5.37
+182,Zambia,5.34
+183,South Sudan,5.32
+184,Nepal,4.97
+185,Madagascar,4.63
+186,Niger,4.51
+187,Democratic Republic of Congo,4.38
+188,Congo,4.38
+189,Uganda,4.25
+190,Burkina Faso,4.17
+191,Senegal,4.06
+192,Malawi,3.21
+193,Cambodia,3.12
+194,Bangladesh,2.97
+195,Eritrea,2.93
+196,Sierra Leone,2.79
+197,Vietnam,1.97
+198,Rwanda,1.84
+199,Timor-Leste,1.58
+200,Ethiopia,1.10
