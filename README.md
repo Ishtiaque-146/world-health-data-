@@ -13,6 +13,14 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt
 ```
+4. Download Chromedriver from : https://chromedriver.chromium.org/downloads
+5. run scrapper
+```bash
+python Scripts/healthcare.py --chromedrive_path<path_to_chromedriver>
+python Scripts/life_expectency.py --chromedrive_path<path_to_chromedriver>
+python Scripts/obesity.py --chromedrive_path<path_to_chromedriver>
+
+```
 
 # Tableau public dashboard link: 
 https://public.tableau.com/views/Worldwidehealthcaredata/CountryWiseHealthcaredata?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
