@@ -14,6 +14,12 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 2. For relations between obesity and healthcare system visit [This link](https://public.tableau.com/shared/R79J3K82Y?:display_count=n&:origin=viz_share_link)
 3. For relations between life expectancy and health care and life expectancy visit [This link](https://public.tableau.com/shared/C2MY698MZ?:display_count=n&:origin=viz_share_link)
 
+## 1.
+![Dashboard 1](https://github.com/Ishtiaque-146/world-health-data-/assets/169515556/9c376001-24f0-4c6d-b35f-af4d8675ff6f)
+
+This dashboard consists of 4 different graphs:
+1. 
+
 ## Build from sources 
 1. Clone the repo
 ```bash
