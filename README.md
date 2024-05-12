@@ -30,7 +30,7 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 4. Multiple charts shows the the correlations between the Rank and Government Readiness, Medical Infrastructures, and  Professionals as well as Medicine availability and cost.
 5. Taiwan and South Korea Has the highest health care index (overall). Both scoring 76.02 out of 100. While Nepal, El Salvador and Honduras scoring the lowest Which is 18.1.
 
-#2
+# 2.
 
 ![Dashboard 2](https://github.com/Ishtiaque-146/world-health-data-/assets/169515556/f23594b1-95e0-4e86-a9ab-28d0d966bbe1)
 
@@ -40,6 +40,43 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 2. A bar chart of Country wise Obesity percentage index.
 3. A line chart of the Relation Between Life Expectancy and Obesity percentage
 4. Relation between Health care index and Obesity percentage Country wise
+
+### Findings from the Dashboard:
+1. A world map that shows the obesity percentage of the countries around the globe.
+2. United states of America has the highest Obesity percentage. 41.64% of the entire population are obese.
+3. Vietnam has the lowest Obesity rate aorund the globe with only 1.97%.
+4. 22.19% is the average obesity rate amongst the countries world wide.
+5. There isn't much correlation between Life expectency and Obesity percentage. The country with highest obesity percentage has Life expectancy of 79.89 years. Also the country with lowest obesity rate has life expectancy of 74.90. Both of them having 70+ years of life expectancy.
+6. Same goes for Relation between health care index and Obesity percentage.
+
+# 3.![Dashboard 3](https://github.com/Ishtiaque-146/world-health-data-/assets/169515556/17e2fb06-f653-434c-834f-74b9015f7620)
+
+### The Dashboard consists of 4 different graphs and charts:
+
+1. A bar chart that shows Country wise average life expectancy rate.
+2. A line chart of Health care index vs average life expactency rate countrywise.
+3. Multiple line charts showing the correlation between All health care index and Health care index overall.
+4. A world map showing country wise life expectancy.
+
+### Findings from the dashboard:
+
+1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Build from sources 
 1. Clone the repo
