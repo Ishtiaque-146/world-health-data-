@@ -65,7 +65,20 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 3. The line graph shows the average life expectancy rate gradually decreases as the Overall health care index decreases.
 4. Multiple line graphs that shows different relations between Life Expectancy world wide and Government Readiness, Medical Infrastructures, and  Professionals as well as Medicine availability and cost as well as the overall Index of health care index overall.
 5. Coloured world map showing all the country's life expectation.
-   
+
+## Additional informations:
+
+### Health care index: 
+The Health Care Index of a country is a statistical measure of the overall quality of the health care system in a particular country. It takes into account various factors including health outcomes, health systems, illness and risk factors, and mortality rates.
+
+### Medical Infrastructure and Professionals score:
+The Medical Infrastructure and Professionals score of a country is a statistical measure that reflects the quality of the medical infrastructure and the competency of healthcare professionals in a particular country. This score is part of the overall Health Care Index.
+
+### Medicine Availability and Costs score:
+The Medicine Availability and Costs score of a country is a statistical measure that reflects the availability and affordability of medicines in a particular country. This score is part of the overall Health Care Index.
+
+### Government readiness:
+Government readiness in terms of healthcare country-wise refers to the preparedness and capacity of a government to effectively address healthcare needs within its population. This readiness encompasses various factors.
 
 
 
