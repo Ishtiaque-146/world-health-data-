@@ -17,11 +17,29 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 ## 1.
 ![Dashboard 1](https://github.com/Ishtiaque-146/world-health-data-/assets/169515556/9c376001-24f0-4c6d-b35f-af4d8675ff6f)
 
-This dashboard consists of 4 different graphs:
+### This dashboard consists of 4 different graphs:
 1. A world map consisting of the Health care index of all the countries.
 2. A bar chart showing the rankings of Government Readiness points ranking.
-3. Multiple charts that shows the correlations between the Rank and Government Readiness, Medical Infrastructures, and  Professionals as well as Medicine availability and cost.
-4. A stacked bar chart showing the Country wise Health care index count.
+3. Multiple charts that showing Health care system ranks of country wise vs all other attributes
+4. A stacked bar chart showing the Country wise healthcare index count.
+
+### Findings from the Dashboard:
+1. World map showing the health care index of all the countries. Which can easily be browsed by the users.
+2. Japan has the highest Government readiness points. Scoring 98.74 out of 100. Also, Oman has the lowest Government readiness points scoring only 43.32.
+3. The Average Government readiness index of the countries around the world is 65.55 out of 100.
+4. Multiple charts shows the the correlations between the Rank and Government Readiness, Medical Infrastructures, and  Professionals as well as Medicine availability and cost.
+5. Taiwan and South Korea Has the highest health care index (overall). Both scoring 76.02 out of 100. While Nepal, El Salvador and Honduras scoring the lowest Which is 18.1.
+
+#2
+
+![Dashboard 2](https://github.com/Ishtiaque-146/world-health-data-/assets/169515556/f23594b1-95e0-4e86-a9ab-28d0d966bbe1)
+
+### This Dashboard consists of 4 different graphs:
+
+1. Obesity level world map
+2. A bar chart of Country wise Obesity percentage index.
+3. A line chart of the Relation Between Life Expectancy and Obesity percentage
+4. Relation between Health care index and Obesity percentage Country wise
 
 ## Build from sources 
 1. Clone the repo
