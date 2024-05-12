@@ -18,7 +18,7 @@ def main():
     options = webdriver.ChromeOptions()
     options.add_argument('--headless')
     driver = webdriver.Chrome(options=options, executable_path="chromedriver.exe")
-    url = "https://database.earth/population/life-expectancy/2024"
+    url = "https://worldpopulationreview.com/country-rankings/life-expectancy-by-country"
     driver.get(url)
     rows = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.XPATH, '//tbody')))
     rows = rows.text.split('\n')
