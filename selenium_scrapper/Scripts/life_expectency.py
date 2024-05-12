@@ -5,6 +5,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("--chromedrive_path", type=str, help="check where your chromedriver.exe is located")
+args = parser.parse_args()
+
+
 def get_life_expectancy_details(row):
     details = row.split(' ')
     contents = {}
