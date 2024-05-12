@@ -60,7 +60,12 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 
 ### Findings from the dashboard:
 
-1.
+1. Average Life expectancy world wide is 77.07 years.
+2. Hong kong has the highest average Life expectancy rate of the world with 86.0 years. And Nigeria has the lowest average life expectancy rate with 54.1 years.
+3. The line graph shows the average life expectancy rate gradually decreases as the Overall health care index decreases.
+4. Multiple line graphs that shows different relations between Life Expectancy world wide and Government Readiness, Medical Infrastructures, and  Professionals as well as Medicine availability and cost as well as the overall Index of health care index overall.
+5. Coloured world map showing all the country's life expectation.
+   
 
 
 
