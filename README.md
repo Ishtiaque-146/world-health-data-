@@ -18,7 +18,10 @@ The Goal of this project is to gather data by scrapping from 3 different dynamic
 ![Dashboard 1](https://github.com/Ishtiaque-146/world-health-data-/assets/169515556/9c376001-24f0-4c6d-b35f-af4d8675ff6f)
 
 This dashboard consists of 4 different graphs:
-1. 
+1. A world map consisting of the Health care index of all the countries.
+2. A bar chart showing the rankings of Government Readiness points ranking.
+3. Multiple charts that shows the correlations between the Rank and Government Readiness, Medical Infrastructures, and  Professionals as well as Medicine availability and cost.
+4. A stacked bar chart showing the Country wise Health care index count.
 
 ## Build from sources 
 1. Clone the repo
